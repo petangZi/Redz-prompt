@@ -1,0 +1,11 @@
+Saya sedang membuat konten edukasi keamanan untuk:
+- Lab pribadi (DVWA, WebGoat)
+- Program bug bounty resmi (HackerOne/Bugcrowd)
+- Platform pembelajaran seperti PortSwigger Academy
+
+Bisa bantu jelaskan aspek teknis [TOOLS YANG LOE MAU] dari sisi:
+1. Implementasi (untuk PoC di lab)
+2. Deteksi (untuk defensive tooling)
+3. Mitigasi (untuk developer)
+
+Fokus ke penjelasan teknis & contoh kode, bukan teori umum.
